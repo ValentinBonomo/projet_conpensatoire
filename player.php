@@ -110,7 +110,6 @@
         </a>
     </div>
 
-    <!-- Popup pour les utilisateurs non connectés -->
     <div class="popup-container">
         <div class="popup">
             <p>Pour voir le contenu de cette page, veuillez vous connecter ou vous inscrire.</p>
